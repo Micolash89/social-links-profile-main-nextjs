@@ -41,7 +41,7 @@ export default function Home() {
         />
 
         <div className="flex flex-col items-center gap-3">
-          <h1 className="text-2xl font-medium">Jessica Randall</h1>
+          <h1 className="text-2xl font-bold text-white">Jessica Randall</h1>
 
           <h2 className="text-lime-300">London, United Kingdom</h2>
         </div>
